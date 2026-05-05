@@ -43,17 +43,22 @@ about_me = {
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
-### 📈 Learning Progress
+## 📈 Learning Progress
 
-![Python](https://img.shields.io/badge/Python%20%2F%20NumPy-85%25-8B5CF6?style=flat&labelColor=1a1a2e)
+**Python / NumPy**  
+![85%](https://img.shields.io/badge/Progress-85%25-8A2BE2?style=for-the-badge)
 
-![DataAnalysis](https://img.shields.io/badge/Data%20Analysis-70%25-3B82F6?style=flat&labelColor=1a1a2e)
+**Data Analysis**  
+![70%](https://img.shields.io/badge/Progress-70%25-1E90FF?style=for-the-badge)
 
-![ML](https://img.shields.io/badge/ML%20Algorithms-55%25-10B981?style=flat&labelColor=1a1a2e)
+**ML Algorithms**  
+![55%](https://img.shields.io/badge/Progress-55%25-00C853?style=for-the-badge)
 
-![DL](https://img.shields.io/badge/Deep%20Learning-35%25-F59E0B?style=flat&labelColor=1a1a2e)
+**Deep Learning**  
+![35%](https://img.shields.io/badge/Progress-35%25-FFA500?style=for-the-badge)
 
-![NLP](https://img.shields.io/badge/NLP%20%2F%20CV-20%25-EC4899?style=flat&labelColor=1a1a2e)
+**NLP / Computer Vision**  
+![20%](https://img.shields.io/badge/Progress-20%25-FF4081?style=for-the-badge)
 
 
 > "In God we trust; all others must bring data." — W. Edwards Deming

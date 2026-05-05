@@ -12,10 +12,15 @@ about_me = {
 ```
 
 🌱 Currently learning **ML fundamentals**, **neural networks** & **natural language processing**
+
 🔭 Exploring **scikit-learn** & **PyTorch** through hands-on projects
+
 📊 Love turning raw data into **insights** and **beautiful visualizations**
+
 🤖 Fascinated by **deep learning** — how machines actually learn to see and think
+
 💡 Goal: build impactful **AI projects** that solve real-world problems
+
 ⚡ Fun fact: I've trained more models than I've cooked meals this month
 
 ---

@@ -2,20 +2,18 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=8B5CF6&width=435&lines=Aspiring+Data+Scientist;ML+%2F+DL+Explorer;Building+one+model+at+a+time+🧠)](https://git.io/typing-svg)
 
-```python
-about_me = {
-    "name"      : "[Your Name]",
-    "status"    : "Beginner → Building every day",
-    "focus"     : ["Machine Learning", "Deep Learning"],
-    "currently" : "Training my first neural net 🧠"
-}
-```
+
 
 🌱 Currently learning **ML fundamentals**, **neural networks** & **computer vision**
+
 🔭 Exploring **scikit-learn**, **TensorFlow** & **PyTorch** through hands-on projects
+
 📊 Love turning raw data into **insights** and **beautiful visualizations**
+
 🤖 Fascinated by **deep learning** — how machines actually learn to see and think
+
 💡 Goal: build impactful **AI projects** that solve real-world problems
+
 ⚡ Fun fact: I've trained more models than I've cooked meals this month
 
 ---
@@ -42,10 +40,21 @@ about_me = {
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 
+---
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=ShuvoRoy01&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ShuvoRoy01&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ShuvoRoy01&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+### ✍️ Dev Quote
 > "In God we trust; all others must bring data." — W. Edwards Deming
 
 ---
+[![](https://komarev.com/ghpvc/?username=ShuvoRoy01&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 📫 your@email.com · [LinkedIn](#) · [Kaggle](#) · [Hugging Face](#)
 

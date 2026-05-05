@@ -43,19 +43,13 @@ about_me = {
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
----
-
 ### 📈 Learning Progress
 
-| Skill | Progress |
-|---|---|
-| Python / NumPy | ████████░░ 85% |
-| Data Analysis | ███████░░░ 70% |
-| ML Algorithms | █████░░░░░ 55% |
-| Deep Learning | ███░░░░░░░ 35% |
-| NLP / CV | ██░░░░░░░░ 20% |
-
----
+![Python](https://img.shields.io/badge/Python%20%2F%20NumPy-85%25-8B5CF6?style=flat&labelColor=1a1a2e)
+![DataAnalysis](https://img.shields.io/badge/Data%20Analysis-70%25-3B82F6?style=flat&labelColor=1a1a2e)
+![ML](https://img.shields.io/badge/ML%20Algorithms-55%25-10B981?style=flat&labelColor=1a1a2e)
+![DL](https://img.shields.io/badge/Deep%20Learning-35%25-F59E0B?style=flat&labelColor=1a1a2e)
+![NLP](https://img.shields.io/badge/NLP%20%2F%20CV-20%25-EC4899?style=flat&labelColor=1a1a2e)
 
 > "In God we trust; all others must bring data." — W. Edwards Deming
 

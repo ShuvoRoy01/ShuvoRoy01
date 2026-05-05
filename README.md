@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=8B5CF6&width=435&lines=Aspiring+Data+Scientist;ML+%2F+DL+Explorer;Building+one+model+at+a+time+🧠)](https://git.io/typing-svg)
 
 
-🌱 Currently learning **ML fundamentals**, **neural networks** & **computer vision**
+🌱 Currently learning **ML fundamentals**, **neural networks** & **natural language processing**
 
 🔭 Exploring **scikit-learn**, **TensorFlow** & **PyTorch** through hands-on projects
 
@@ -14,7 +14,6 @@
 
 💡 Goal: build impactful **AI projects** that solve real-world problems
 
-⚡ Fun fact: I've trained more models than I've cooked meals this month
 
 ---
 
@@ -37,8 +36,6 @@
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ShuvoRoy01&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=ShuvoRoy01&theme=merko&hide_border=false)<br/>
@@ -47,13 +44,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ShuvoRoy01&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShuvoRoy01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=ShuvoRoy01&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
